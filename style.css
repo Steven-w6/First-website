@@ -4,9 +4,14 @@ body {background-color: rgb(141, 141, 141);
     
     h1 {font-family: 'Rubik Iso', cursive;
         font-size: 60px;
-        text-align: center;}
+        text-align: left;}
+        header h1 {text-align: center;}
      h2{font-size: 40px;}
         h3{font-size: 30px;}
         h1,h2,h3 {font-weight: normal;
             font-style: italic;}
     p {line-height: 2;}
+    a {
+        color: red;
+        text-decoration: none;
+      }
