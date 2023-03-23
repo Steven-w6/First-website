@@ -2,4 +2,6 @@ body {background-color: rgb(141, 141, 141);
         color: #1d1d1d;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
     
-h1 {font-family: 'Rubik Iso', cursive;}
+    h1 {font-family: 'Rubik Iso', cursive;
+        font-size: 60px;}
+     
