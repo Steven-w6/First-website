@@ -7,14 +7,14 @@ body {background-color: rgb(141, 141, 141);
         text-align: left;}
         header h1 {text-align: center;}
         h2{font-size: 40px;
-            padding-bottom: 30%;}
+            padding-bottom: 3%;}
                 h3{font-size: 30px;}
                 h1,h2,h3 {font-weight: normal;
                              font-style: italic;
-                             padding-bottom: 50%;}
+                             padding-bottom: 5%;}
     p {line-height: 2;
         font-size: large;
-    padding-bottom: 40%;}
+    padding-bottom: 4%;}
     a {
         color: rgb(15, 15, 15);
         text-decoration: none;
